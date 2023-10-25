@@ -53,6 +53,12 @@
         "shared.rich-text",
         "shared.slider"
       ]
+    },
+    "metadata": {
+      "displayName": "Metadata",
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.metadata"
     }
   }
 }
